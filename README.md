@@ -24,7 +24,7 @@ Resource management: Linux kernel Namespaces and cgroups by Rami Rosen - [slide]
 
 2016, BSides:"Docker: Security Myths, Security Legends" by Rory McCune - [video](https://www.youtube.com/watch?v=uQigvjSXMLw)
 
-2015, BlackHat:"Vulnerability Exploitation In Docker Container Environments" by Anthony Bettini-[video](https://www.youtube.com/watch?v=77-jaeUKH7c)-[slide](https://www.blackhat.com/docs/eu-15/materials/eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments.pdf)-(whitepaper)[https://www.blackhat.com/docs/eu-15/materials/eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments-wp.pdf]
+2015, BlackHat:"Vulnerability Exploitation In Docker Container Environments" by Anthony Bettini - [video](https://www.youtube.com/watch?v=77-jaeUKH7c) - [slide](https://www.blackhat.com/docs/eu-15/materials/eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments.pdf) - [whitepaper](https://www.blackhat.com/docs/eu-15/materials/eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments-wp.pdf)
 
 
 ## Kubernetes
@@ -34,4 +34,4 @@ Resource management: Linux kernel Namespaces and cgroups by Rami Rosen - [slide]
 
 ## Miscs
 
-2018:"How one of our Kubernetes clusters got pwned Shopify" - [detail](https://hackerone.com/reports/341876)
+2018:"How one of our Kubernetes clusters got pwned Shopify" - [post](https://hackerone.com/reports/341876)
