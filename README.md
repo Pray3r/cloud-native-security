@@ -17,7 +17,7 @@ Resource management: Linux kernel Namespaces and cgroups by Rami Rosen - [slide]
 2016:"Abusing Privileged and Unprivileged Linux Containers" by NCC Group - [whitepaper](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
 
 
-2014:"Container escape through open_by_handle_at (shocker exploit)" - [vuln](https://lists.linuxcontainers.org/pipermail/lxc-devel/2014-June/009547.html)-[exp](https://github.com/gabrtv/shocker)
+2014:"Container escape through open_by_handle_at (shocker exploit)" - [vuln](https://lists.linuxcontainers.org/pipermail/lxc-devel/2014-June/009547.html) - [exp](https://github.com/gabrtv/shocker)
 
 
 ## Docker
