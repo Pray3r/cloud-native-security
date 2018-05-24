@@ -12,7 +12,7 @@ Resource management: Linux kernel Namespaces and cgroups by Rami Rosen - [slide]
 
 ## Escaping
 
-2017:"Escaping Docker container using waitid() – CVE-2017-5123" by Daniel Shapira - [post](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
+2017:"Escaping Docker container using waitid() – CVE-2017-5123" by Daniel Shapira - [article](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
 
 2016:"Abusing Privileged and Unprivileged Linux Containers" by NCC Group - [whitepaper](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
 
@@ -29,9 +29,9 @@ Resource management: Linux kernel Namespaces and cgroups by Rami Rosen - [slide]
 
 ## Kubernetes
 
-2018:"Hard Multi-Tenancy in Kubernetes by Jessie Frazelle" - [post](https://blog.jessfraz.com/post/hard-multi-tenancy-in-kubernetes/)
+2018:"Hard Multi-Tenancy in Kubernetes by Jessie Frazelle" - [article](https://blog.jessfraz.com/post/hard-multi-tenancy-in-kubernetes/)
 
 
 ## Miscs
 
-2018:"How one of our Kubernetes clusters got pwned Shopify" - [post](https://hackerone.com/reports/341876)
+2018:"How one of our Kubernetes clusters got pwned Shopify" - [article](https://hackerone.com/reports/341876)
