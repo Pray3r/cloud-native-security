@@ -7,8 +7,14 @@ Namespaces in operation by Michael Kerrisk - [whitepaper](https://lwn.net/Articl
 
 Control groups series by Neil Brown - [whitepaper](https://lwn.net/Articles/604609/)
 
-Resource management: Linux kernel Namespaces and cgroups by Rami Rosen - [slide](http://www.haifux.org/lectures/299/netLec7.pdf)
 
+2018:"A history of low-level Linux container runtimes" by Daniel J. Walsh - [article](https://opensource.com/article/18/1/history-low-level-container-runtimes)
+
+2015:"The History of Containers" by by thildred - [article](https://rhelblog.redhat.com/2015/08/28/the-history-of-containers/)
+
+2015, LinuxCon:"Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic" by Jérôme Petazzoni - [slide](https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon)
+
+2013:"Resource management: Linux kernel Namespaces and cgroups" by Rami Rosen - [slide](http://www.haifux.org/lectures/299/netLec7.pdf)
 
 ## Escaping
 
