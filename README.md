@@ -8,6 +8,8 @@ Namespaces in operation by Michael Kerrisk - [whitepaper](https://lwn.net/Articl
 Control groups series by Neil Brown - [whitepaper](https://lwn.net/Articles/604609/)
 
 
+2018, KubeCon, CloudNativeCon:"Container Isolation at Scale (Introducing gVisor) by Dawn Chen and Zhengyu He" - [slide](https://schd.ws/hosted_files/kccnceu18/47/Container%20Isolation%20at%20Scale.pdf) - [video](https://www.youtube.com/watch?v=pWyJahTWa4I)
+
 2018:"A history of low-level Linux container runtimes" by Daniel J. Walsh - [article](https://opensource.com/article/18/1/history-low-level-container-runtimes)
 
 2015:"The History of Containers" by by thildred - [article](https://rhelblog.redhat.com/2015/08/28/the-history-of-containers/)
