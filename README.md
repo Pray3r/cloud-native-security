@@ -20,7 +20,7 @@ Control groups series by Neil Brown - [whitepaper](https://lwn.net/Articles/6046
 
 ## Escaping
 
-2018:"CVE-2017-1002101:kubernetes: Volume security can be sidestepped with innocent emptyDir and subpath" - (article)[https://www.twistlock.com/2018/03/21/deep-dive-severe-kubernetes-vulnerability-date-cve-2017-1002101/] - (exp)[https://github.com/bgeesaman/subpath-exploit]
+2018:"CVE-2017-1002101:kubernetes: Volume security can be sidestepped with innocent emptyDir and subpath" - [article](https://www.twistlock.com/2018/03/21/deep-dive-severe-kubernetes-vulnerability-date-cve-2017-1002101/) - [exp](https://github.com/bgeesaman/subpath-exploit)
 
 2017:"Escaping Docker container using waitid() – CVE-2017-5123" by Daniel Shapira - [article](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
 
