@@ -20,6 +20,8 @@ Control groups series by Neil Brown - [whitepaper](https://lwn.net/Articles/6046
 
 ## Escaping
 
+2018:"CVE-2017-1002101:kubernetes: Volume security can be sidestepped with innocent emptyDir and subpath" - (article)[https://www.twistlock.com/2018/03/21/deep-dive-severe-kubernetes-vulnerability-date-cve-2017-1002101/] - (exp)[https://github.com/bgeesaman/subpath-exploit]
+
 2017:"Escaping Docker container using waitid() – CVE-2017-5123" by Daniel Shapira - [article](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
 
 2016:"Abusing Privileged and Unprivileged Linux Containers" by NCC Group - [whitepaper](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
@@ -65,6 +67,8 @@ Exploring container security: Isolation at different layers of the Kubernetes st
 
 ## Miscs
 
+2018:"How modern containerization trend is exploited by attackers" - [article](https://kromtech.com/blog/security-center/cryptojacking-invades-cloud-how-modern-containerization-trend-is-exploited-by-attackers)
+
 2018:"How one of our Kubernetes clusters got pwned Shopify" - [article](https://hackerone.com/reports/341876)
 
 2015, Defcon 23:"Linux Containers: Future or Fantasy?" by Aaron Grattafiori - [video](https://www.youtube.com/watch?v=iN6QbszB1R8) - [slide](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20presentations/DEFCON-23-Aaron-Grattafiori-Linux-Containers-Future-or-Fantasy-UPDATED.pdf)
@@ -74,3 +78,5 @@ Exploring container security: Isolation at different layers of the Kubernetes st
 The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 https://github.com/docker/docker-bench-security
 
+The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
+https://github.com/aquasecurity/kube-bench
