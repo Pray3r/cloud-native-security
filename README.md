@@ -33,6 +33,8 @@ Control groups series by Neil Brown - [whitepaper](https://lwn.net/Articles/6046
 
 ## Docker
 
+2017:"Docker Security" by Mika Vatanen - [slide](https://www.owasp.org/images/f/f2/Owasp-Helsinki-20170613-Docker-Security.pdf)
+
 2016:"Docker & Security" by Florian Barth and Matthias Luft - [slide](https://www.ernw.de/download/ERNW_Stocard_Docker-Devops-Security_fbarth-mluft.pdf)
 
 2016, BSides:"Docker: Security Myths, Security Legends" by Rory McCune - [video](https://www.youtube.com/watch?v=uQigvjSXMLw)
