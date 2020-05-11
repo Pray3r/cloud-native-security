@@ -1,5 +1,10 @@
-# container-security
-Resources for container security research, such as Docker, Kubernetes, etc.
+# Cloud Native Security
+Resources for Cloud Native Security Research, such as Docker, Kubernetes, etc.
+Pull request welcome.
+
+## Intro
+
+2020:"Cloud Native Security: Container Security Practice" by Pray3r - [article, CN](https://mp.weixin.qq.com/s/aGkpiig3x1NUv5Qfomehvw)
 
 ## Kernel and architecture
 
@@ -75,7 +80,7 @@ Exploring container security: Isolation at different layers of the Kubernetes st
 
 2015, Defcon 23:"Linux Containers: Future or Fantasy?" by Aaron Grattafiori - [video](https://www.youtube.com/watch?v=iN6QbszB1R8) - [slide](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20presentations/DEFCON-23-Aaron-Grattafiori-Linux-Containers-Future-or-Fantasy-UPDATED.pdf)
 
-## Best Practices
+## Tools
 
 The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 https://github.com/docker/docker-bench-security
