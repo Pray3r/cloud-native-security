@@ -6,6 +6,8 @@ Pull request welcome.
 
 2020:"Cloud Native Security: Container Security Practice" by Pray3r - [article, CN](https://mp.weixin.qq.com/s/aGkpiig3x1NUv5Qfomehvw)
 
+Series of articles: Exploring Container Security by Google - [articles](https://cloud.google.com/blog/topics/exploring-container-security)
+
 ## Kernel and architecture
 
 Namespaces in operation by Michael Kerrisk - [whitepaper](https://lwn.net/Articles/531114/)
@@ -50,23 +52,6 @@ Control groups series by Neil Brown - [whitepaper](https://lwn.net/Articles/6046
 ## Kubernetes
 
 2018:"Hard Multi-Tenancy in Kubernetes by Jessie Frazelle" - [article](https://blog.jessfraz.com/post/hard-multi-tenancy-in-kubernetes/)
-
-#### Exploring Container Security Articles by Google
-
-Exploring container security: An overview - [article](https://cloudplatform.googleblog.com/2018/03/exploring-container-security-an-overview.html)
-
-Exploring container security: Node and container operating systems - [article](https://cloudplatform.googleblog.com/2018/04/exploring-container-security-Node-and-container-operating-systems.html)
-
-Exploring container security: Digging into Grafeas container image metadata - [article](https://cloudplatform.googleblog.com/2018/04/exploring-container-security-digging-into-Grafeas-container-image-metadata.html)
-
-Exploring container security: Protecting and defending your Kubernetes Engine network - [article](https://cloudplatform.googleblog.com/2018/04/exploring-container-security-protecting-and-Defending-your-Kubernetes-Engine-network.html)
-
-Exploring container security: Running a tight ship with Kubernetes Engine 1.10 - [article](https://cloudplatform.googleblog.com/2018/04/Exploring-container-security-Running-a-tight-ship-with-Kubernetes-Engine-1-10.html)
-
-Exploring container security: Using Cloud Security Command Center (and five partner tools) to detect and manage an attack - [article](https://cloudplatform.googleblog.com/2018/05/Exploring-container-security-Using-Cloud-Security-Comma.html)
-
-Exploring container security: Isolation at different layers of the Kubernetes stack - [article](https://cloudplatform.googleblog.com/2018/05/Exploring-container-security-Isolation-at-different-layers-of-the-Kubernetes-stack.html)
-
 
 ## Hardening
 
