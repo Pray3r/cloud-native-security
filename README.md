@@ -77,4 +77,8 @@ https://github.com/docker/docker-bench-security
 The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
 https://github.com/aquasecurity/kube-bench
 
+## Product
+
+Open Policy Agent
+https://github.com/anderseknert/awesome-opa
 
