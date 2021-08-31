@@ -4,6 +4,8 @@ Pull request welcome.
 
 ## Intro
 
+2021:"The Zero Trust Security Practice" by Kevin Chen - [article, CN](https://ckev.in/j/ztcn/)
+
 2020:"Cloud Native Security: Container Security Practice" by Pray3r - [article, CN](https://mp.weixin.qq.com/s/aGkpiig3x1NUv5Qfomehvw)
 
 Series of articles: Exploring Container Security by Google - [articles](https://cloud.google.com/blog/topics/exploring-container-security)
